@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Author** | [Habeeb Sikiru] |
+| **Author** | Habeeb Sikiru |
 | **Focus** | Malware analysis, dynamic analysis, evidence handling, network correlation, technical reporting |
 | **Environment** | VirtualBox, FLARE-VM (Windows 11), Host-only network with FakeNet-NG simulated services |
 | **Analysis date** | 1 October 2026 (VM clock) |
